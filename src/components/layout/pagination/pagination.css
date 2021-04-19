@@ -1,0 +1,17 @@
+.pgBtn {
+    display: inline-block;
+    font-weight: 300;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    border: 3px solid #ff0000;
+    border-radius: 2px;
+    transition: all 0.2s;
+}
+
+.pgBtn:hover{
+    color: #000;
+    background-color: #ff0000;
+    font-weight: bold;
+    border: 6px solid #ff0000;
+}
